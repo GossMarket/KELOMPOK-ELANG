@@ -2,10 +2,10 @@
 public class AnandaMiftakhurrokhmat {
 
     public static void main(String[] args) {
-        String fullname = "Ananda Miftakhurrokhmat";
-        String nim = "09.11.3207";
-        String team = "Single Fighter";
-        String role = "Leader";
+        String fullname = "Muhammad Ferdiharvan";
+        String nim = "2213010374";
+        String team = "Team";
+        String role = "Programmer";
 
         System.out.println("Halo, perkenalkan nama saya " + fullname + ".");
         System.out.println("Nim saya = " + nim + ".");
